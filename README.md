@@ -28,8 +28,8 @@ javascript-calculator/
 ├── .gitignore
 └── screenshots/
 ├── README.md
-├── calculator-interface.png
-└── calculation-result.png
+├── interface.png
+└── result.png
 
 ## How to Run
 
